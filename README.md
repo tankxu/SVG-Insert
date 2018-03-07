@@ -1,6 +1,9 @@
 # SVG-Insert
 Use this plugin to help you save time from copy a svg graph on web into sketch.
 
+## Install 
+Download the release from https://github.com/tankxu/SVG-Insert/releases and double click the file to install.
+
 ## Useage
 1. Copy the svg xml code from web or other place.
 2. Click "SVG Insert" from Sketch plugin menu.
