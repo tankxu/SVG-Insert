@@ -1,0 +1,25 @@
+{
+  "description": "Insert SVG code as a Layer",
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "SVG Insert",
+      "identifier": "svgInsert",
+      "script": "svg-insert.js"
+    }
+  ],
+  "menu": {
+    "isRoot": true,
+    "items": [
+      "svgInsert"
+    ]
+  },
+  "version": "0.1.0",
+  "homepage": "https://github.com/tankxu/SVG-Insert",
+  "name": "SVG-Insert",
+  "disableCocoaScriptPreprocessor": true,
+  "appcast": "https://raw.githubusercontent.com/tankxu/SVG-Insert/master/.appcast.xml",
+  "author": "tankxu"
+}

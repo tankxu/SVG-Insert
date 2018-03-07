@@ -1,18 +1,17 @@
 {
+  "description": "Insert SVG code as a Layer",
   "compatibleVersion": 3,
   "bundleVersion": 1,
   "icon": "icon.png",
   "commands": [
     {
-      "name": "my-command",
-      "identifier": "my-command-identifier",
-      "script": "./my-command.js"
+      "name": "SVG Insert",
+      "identifier": "svgInsert",
+      "script": "./svg-insert.js"
     }
   ],
   "menu": {
-    "title": "SVG-Insert",
-    "items": [
-      "my-command-identifier"
-    ]
+    "isRoot": true,
+    "items": ["svgInsert"]
   }
 }
