@@ -16,7 +16,7 @@
       "svgInsert"
     ]
   },
-  "version": "0.2.1",
+  "version": "0.2.2",
   "homepage": "https://github.com/tankxu/SVG-Insert",
   "name": "SVG Insert",
   "disableCocoaScriptPreprocessor": true,
