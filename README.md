@@ -16,7 +16,7 @@ Go to ```install``` tab and search for ```SVG Insert```, click to install.
 ![install-with-sketch-runner](https://user-images.githubusercontent.com/5106039/37209270-9f878d4a-23df-11e8-9725-5d241fc3b154.png)
 
 
-## Useage
+## Usage
 1. Copy the svg xml code from web or other place.
 2. Click "SVG Insert" from Sketch plugin menu.
 3. Paste the svg code into the input frame of popup window and click "OK".
