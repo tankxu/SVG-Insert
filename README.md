@@ -1,6 +1,6 @@
 # SVG-Insert
 <a href="http://bit.ly/SketchRunnerWebsite">
-  <img src="http://bit.ly/RunnerBadgeWhite">
+      <img src="http://bit.ly/RunnerBadgeBlue" width="160px">
 </a>
 
 Use this plugin to help you save time from copy a svg graph on web into sketch.

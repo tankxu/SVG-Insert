@@ -2,7 +2,7 @@
   "name": "svg-insert",
   "version": "0.2.2",
   "engines": {
-    "sketch": ">=3.0"
+    "sketch": ">=44.0"
   },
   "skpm": {
     "name": "SVG Insert",

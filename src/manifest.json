@@ -1,6 +1,6 @@
 {
   "description": "Insert SVG code as a Layer",
-  "compatibleVersion": 3,
+  "compatibleVersion": 44.0,
   "bundleVersion": 1,
   "icon": "svg-insert.png",
   "commands": [
